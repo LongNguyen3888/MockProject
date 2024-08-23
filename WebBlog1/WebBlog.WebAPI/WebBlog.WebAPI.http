@@ -1,0 +1,6 @@
+@WebBlog.WebAPI_HostAddress = http://localhost:5259
+
+GET {{WebBlog.WebAPI_HostAddress}}
+Accept: application/json
+
+###
