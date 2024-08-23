@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QuizApp.Business
-build_property.ProjectDir = C:\Users\CPN\Downloads\WebBlog1\QuizApp.Business\
+build_property.ProjectDir = D:\Web\MockProject\WebBlog1\QuizApp.Business\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,16 @@
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CopyComplete
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
