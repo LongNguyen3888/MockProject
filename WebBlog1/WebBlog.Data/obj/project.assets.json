@@ -4285,11 +4285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
+      "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
       "projectName": "WebBlog.Data",
-      "projectPath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
+      "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\obj\\",
+      "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4300,6 +4300,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4312,6 +4313,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

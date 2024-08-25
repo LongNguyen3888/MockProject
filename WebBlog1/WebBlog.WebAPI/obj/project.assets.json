@@ -3365,11 +3365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+      "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
       "projectName": "WebBlog.WebAPI",
-      "projectPath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+      "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.WebAPI\\obj\\",
+      "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3380,14 +3380,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj": {
-              "projectPath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj"
+            "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj": {
+              "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj"
             }
           }
         }
@@ -3396,6 +3397,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

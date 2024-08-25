@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmVDDLD7SHVMLyqbpnHs+7Nvf06zMBUNx6ixWuKQRN2YJY/TuWqrCb5+GjwFZfz+wrY8kPg+IzrbOBxcZqfV5g==",
+  "dgSpecHash": "Fp4MyyuM09w=",
   "success": true,
-  "projectFilePath": "D:\\Web\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
+  "projectFilePath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\WebBlog.Data\\WebBlog.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatx\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nhatx\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

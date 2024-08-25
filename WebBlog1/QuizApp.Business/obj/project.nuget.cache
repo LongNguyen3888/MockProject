@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cvHuS5LPb0FesTrY7NtsLOsRGkWHe03XY1WLoqDTae5ESs4rxMySKFGhtl3EKjl+aW1Ukz0/nywH03I9VL20Lg==",
+  "dgSpecHash": "gONv6zxG/3Y=",
   "success": true,
-  "projectFilePath": "D:\\Web\\MockProject\\WebBlog1\\QuizApp.Business\\QuizApp.Business.csproj",
+  "projectFilePath": "D:\\FPT Intern\\Web\\Report\\MockProject\\WebBlog1\\QuizApp.Business\\QuizApp.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatx\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nhatx\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
