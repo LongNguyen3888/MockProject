@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
@@ -19,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\WebBlog.Business\WebBlog.Business.csproj" />
     <ProjectReference Include="..\WebBlog.Data\WebBlog.Data.csproj" />
+    <ProjectReference Include="..\WebBlog.UnitTest\WebBlog.UnitTest.csproj" />
   </ItemGroup>
 
 </Project>

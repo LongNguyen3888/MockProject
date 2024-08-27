@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
+    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "projectName": "WebBlog.UnitTest",
-        "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.UnitTest\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

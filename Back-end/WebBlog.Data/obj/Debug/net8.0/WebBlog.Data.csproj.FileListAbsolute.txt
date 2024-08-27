@@ -43,3 +43,18 @@ D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Data\obj\Debug
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.pdb
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.genruntimeconfig.cache
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Data\obj\Debug\net8.0\ref\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.deps.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.runtimeconfig.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.AssemblyInfo.cs
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.sourcelink.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\refint\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.genruntimeconfig.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Data\obj\Debug\net8.0\ref\WebBlog.Data.dll

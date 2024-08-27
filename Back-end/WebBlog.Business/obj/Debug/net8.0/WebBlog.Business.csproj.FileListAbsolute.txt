@@ -46,3 +46,19 @@ D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\D
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
 D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog..AF1F4D36.Up2Date
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll

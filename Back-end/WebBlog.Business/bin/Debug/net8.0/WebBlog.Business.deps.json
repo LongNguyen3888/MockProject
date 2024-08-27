@@ -655,7 +655,10 @@
           "System.Diagnostics.Tools": "4.3.0"
         },
         "runtime": {
-          "WebBlog.Data.dll": {}
+          "WebBlog.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
