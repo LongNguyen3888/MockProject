@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\longn\\myProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {}
+    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\longn\\myProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\myProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
         "projectName": "WebBlog.Data",
-        "projectPath": "C:\\Users\\longn\\myProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
-        "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\myProject\\Back-end\\WebBlog.Data\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\longn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
