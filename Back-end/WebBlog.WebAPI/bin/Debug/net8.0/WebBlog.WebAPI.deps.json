@@ -1964,10 +1964,7 @@
           "WebBlog.Data": "1.0.0"
         },
         "runtime": {
-          "WebBlog.Business.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WebBlog.Business.dll": {}
         }
       },
       "WebBlog.Data/1.0.0": {
@@ -1977,10 +1974,7 @@
           "System.Diagnostics.Tools": "4.3.0"
         },
         "runtime": {
-          "WebBlog.Data.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WebBlog.Data.dll": {}
         }
       },
       "WebBlog.UnitTest/1.0.0": {
@@ -1991,10 +1985,7 @@
           "xunit.runner.visualstudio": "2.5.3"
         },
         "runtime": {
-          "WebBlog.UnitTest.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WebBlog.UnitTest.dll": {}
         }
       }
     }

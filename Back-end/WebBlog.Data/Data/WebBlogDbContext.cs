@@ -27,7 +27,7 @@ namespace WebBlog.Data.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=DESKTOP-4F5543B\\SQLEXPRESS04;database=WebBlogDb;Trusted_connection=true;TrustServerCertificate=true");
+                optionsBuilder.UseSqlServer("DefaultConnection");
 			}
 		}
 
