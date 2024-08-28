@@ -1,0 +1,80 @@
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CopyComplete
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+D:\Web\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog..AF1F4D36.Up2Date
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+D:\FPT Intern\Web\Report\MockProject\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog..AF1F4D36.Up2Date
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+D:\FPT Intern\Web\Report\JustBog_Website\Back-end\WebBlog\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog..AF1F4D36.Up2Date
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.deps.json
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\bin\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.AssemblyInfo.cs
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.sourcelink.json
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog..AF1F4D36.Up2Date
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.dll
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\refint\WebBlog.Business.dll
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\WebBlog.Business.pdb
+C:\Users\Admin\Downloads\MockProject\Back-end\WebBlog.Business\obj\Debug\net8.0\ref\WebBlog.Business.dll
