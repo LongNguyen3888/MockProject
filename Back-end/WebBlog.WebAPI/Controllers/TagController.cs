@@ -6,7 +6,7 @@ using WebBlog.Business.Services;
 using WebBlog.Business.ViewModels;
 namespace WebBlog.WebAPI.Controllers
 {
-    //[Authorize(Roles = "Admin,User")]
+    [Authorize(Roles = "Admin,User")]
     [Route("api/[controller]")]
     [ApiController]
     public class TagController : ControllerBase
@@ -29,6 +29,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // GET: api/Tag/{id}
+        [Authorize(Roles = "Admin, User")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(Guid id)
         {
@@ -38,7 +39,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // POST: api/Tag
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] TagCreateViewModel tagCreateViewModel)
         {
@@ -56,7 +57,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // PUT: api/Tag/{id}
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(Guid id, [FromBody] TagUpdateViewModel tagUpdateViewModel)
         {
@@ -74,7 +75,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // DELETE: api/Tag/{id}
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(Guid id)
         {
