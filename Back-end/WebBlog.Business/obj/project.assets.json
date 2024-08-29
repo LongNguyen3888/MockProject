@@ -3077,11 +3077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "projectName": "WebBlog.Business",
-      "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3099,8 +3099,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-              "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+            "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
         "projectName": "WebBlog.Data",
-        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

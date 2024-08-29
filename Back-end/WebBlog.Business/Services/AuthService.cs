@@ -69,15 +69,6 @@ namespace WebBlog.Business
             // Assign "User" role by default
             await _userManager.AddToRoleAsync(user, "User");
 
-            // If isAdmin flag is true, also assign "Admin" role
-            if (registerViewModel.IsAdmin)
-            {
-                if (!await _roleManager.RoleExistsAsync("Admin"))
-                {
-                    await _roleManager.CreateAsync(new Role { Name = "Admin" });
-                }
-                await _userManager.AddToRoleAsync(user, "Admin");
-            }
 
             return await LoginAsync(new LoginViewModel()
             {
