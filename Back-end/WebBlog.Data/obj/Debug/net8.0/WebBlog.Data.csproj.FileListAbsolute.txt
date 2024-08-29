@@ -88,3 +88,17 @@ C:\Users\longn\myProject\Back-end\WebBlog.Data\obj\Debug\net8.0\refint\WebBlog.D
 C:\Users\longn\myProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.pdb
 C:\Users\longn\myProject\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.genruntimeconfig.cache
 C:\Users\longn\myProject\Back-end\WebBlog.Data\obj\Debug\net8.0\ref\WebBlog.Data.dll
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.deps.json
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.runtimeconfig.json
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\bin\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.dll
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\refint\WebBlog.Data.dll
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.pdb
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\WebBlog.Data.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Back-end\WebBlog.Data\obj\Debug\net8.0\ref\WebBlog.Data.dll

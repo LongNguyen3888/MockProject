@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
         "projectName": "WebBlog.Business",
-        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-                "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+              "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
         "projectName": "WebBlog.Data",
-        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "projectName": "WebBlog.UnitTest",
-        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
         "projectName": "WebBlog.WebAPI",
-        "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -264,14 +264,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
-                "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj"
+              "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj"
               },
-              "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-                "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+              "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
               },
-              "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
-                "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj"
+              "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj"
               }
             }
           }

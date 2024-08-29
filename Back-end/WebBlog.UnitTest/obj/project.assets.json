@@ -5513,11 +5513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
       "projectName": "WebBlog.UnitTest",
-      "projectPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\MockProject\\Back-end\\WebBlog.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\Back-end\\WebBlog.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
