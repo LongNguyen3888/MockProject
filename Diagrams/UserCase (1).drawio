@@ -17,7 +17,12 @@
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="280" as="targetPoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDLW753o5u6X-Bz460YA-34" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-4" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RDLW753o5u6X-Bz460YA-8">
@@ -25,7 +30,7 @@
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="280" as="targetPoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-5" value="Create/Update/Delete Posts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RDLW753o5u6X-Bz460YA-8">
@@ -70,7 +75,12 @@
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="280" as="targetPoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDLW753o5u6X-Bz460YA-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-6" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RDLW753o5u6X-Bz460YA-8">
@@ -78,7 +88,7 @@
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-30" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="RDLW753o5u6X-Bz460YA-8" source="RDLW753o5u6X-Bz460YA-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="280" as="targetPoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RDLW753o5u6X-Bz460YA-14" value="Read/Search Posts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RDLW753o5u6X-Bz460YA-8">
@@ -87,8 +97,11 @@
         <mxCell id="RDLW753o5u6X-Bz460YA-18" value="Web Blog Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RDLW753o5u6X-Bz460YA-8">
           <mxGeometry x="190" y="480" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RDLW753o5u6X-Bz460YA-15" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="350" width="30" height="60" as="geometry" />
+        <mxCell id="RDLW753o5u6X-Bz460YA-15" value="Author" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDLW753o5u6X-Bz460YA-31" value="Reader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
