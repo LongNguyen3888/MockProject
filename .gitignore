@@ -14,9 +14,9 @@
 *.userosscache
 *.sln.docstates
 
-bin/ 	# ignore bin directory 
-*.obj 	# ignore any files with .obj postfix 
- 
+bin
+obj
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
