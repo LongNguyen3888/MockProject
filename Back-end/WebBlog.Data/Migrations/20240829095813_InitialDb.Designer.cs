@@ -12,7 +12,7 @@ using WebBlog.Data.Data;
 namespace WebBlog.Data.Migrations
 {
     [DbContext(typeof(WebBlogDbContext))]
-    [Migration("20240828042404_InitialDb")]
+    [Migration("20240829095813_InitialDb")]
     partial class InitialDb
     {
         /// <inheritdoc />
@@ -287,12 +287,8 @@ namespace WebBlog.Data.Migrations
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<string>("FirstName")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
                     b.Property<bool>("IsActive")
+                        .HasMaxLength(50)
                         .HasColumnType("bit");
 
                     b.Property<bool>("LockoutEnabled")

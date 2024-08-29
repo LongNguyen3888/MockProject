@@ -74,7 +74,6 @@ namespace WebBlog.WebAPI.Controllers
                 {
                     Id = Guid.NewGuid(),
                     UserName = userViewModel.UserName,
-                    FirstName = userViewModel.FirstName,
                     IsActive = userViewModel.IsActive,
                     Email = userViewModel.UserName + "@fpt.com" 
                 };
@@ -115,7 +114,6 @@ namespace WebBlog.WebAPI.Controllers
                 }
 
                 user.UserName = userViewModel.UserName;
-                user.FirstName = userViewModel.FirstName;
                 user.IsActive = userViewModel.IsActive;
 
                 // Update user details

@@ -284,12 +284,8 @@ namespace WebBlog.Data.Migrations
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<string>("FirstName")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
                     b.Property<bool>("IsActive")
+                        .HasMaxLength(50)
                         .HasColumnType("bit");
 
                     b.Property<bool>("LockoutEnabled")
