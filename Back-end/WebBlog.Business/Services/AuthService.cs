@@ -55,7 +55,6 @@ namespace WebBlog.Business
             var user = new User()
             {
                 UserName = registerViewModel.UserName,
-                FirstName = registerViewModel.FirstName,
                 IsActive = registerViewModel.IsActive
             };
 

@@ -66,7 +66,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // PUT: api/Post/{id}
-        [Authorize(Roles = "Admin,User")]
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(Guid id, [FromBody] PostUpdateViewModel postUpdateViewModel)
         {
