@@ -237,6 +237,86 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebBlog.WebAPI.Controllers.SearchPostController",
+    "Method": "SearchByCategoryId",
+    "RelativePath": "api/SearchPost/byCategoryId/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBlog.WebAPI.Controllers.SearchPostController",
+    "Method": "SearchByContent",
+    "RelativePath": "api/SearchPost/byContent/{content}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "content",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBlog.WebAPI.Controllers.SearchPostController",
+    "Method": "SearchByDescription",
+    "RelativePath": "api/SearchPost/byDescription/{description}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBlog.WebAPI.Controllers.SearchPostController",
+    "Method": "SearchByTitle",
+    "RelativePath": "api/SearchPost/byTitle/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBlog.WebAPI.Controllers.SearchPostController",
+    "Method": "SearchByUrlSlug",
+    "RelativePath": "api/SearchPost/byUrlSlug/{urlSlug}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "urlSlug",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebBlog.WebAPI.Controllers.TagController",
     "Method": "Get",
     "RelativePath": "api/Tag",
@@ -313,16 +393,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebBlog.WebAPI.Controllers.TestController",
-    "Method": "Get",
-    "RelativePath": "api/Test",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": []
   },
   {

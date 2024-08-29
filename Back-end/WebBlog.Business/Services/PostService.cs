@@ -1,11 +1,12 @@
 ﻿using Azure;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using WebBlog.Business.Services.Base;
+using Microsoft.EntityFrameworkCore;
 using WebBlog.Data;
 using WebBlog.Data.Models;
 using System.Globalization;
 using System.Linq.Expressions;
+using System.Linq;
 using WebBlog.Business.Dtos.Post;
 
 namespace WebBlog.Business.Services
@@ -41,6 +42,45 @@ namespace WebBlog.Business.Services
 
             return await GetAsync(filterQuery, orderBy, "", pageIndex, pageSize);
 
+        }
+        public async Task<IEnumerable<Post>> SearchPostsByTitleAsync(string title)
+        {
+            return await _unitOfWork.PostRepository.GetAll()
+                .AsQueryable()
+                .Where(p => p.Title.Contains(title))
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Post>> SearchPostsByContentAsync(string content)
+        {
+            return await _unitOfWork.PostRepository.GetAll()
+                .AsQueryable()
+                .Where(p => p.Content.Contains(content))
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Post>> SearchPostsByDescriptionAsync(string description)
+        {
+            return await _unitOfWork.PostRepository.GetAll()
+                .AsQueryable()
+                .Where(p => p.Description.Contains(description))
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Post>> SearchPostsByUrlSlugAsync(string urlSlug)
+        {
+            return await _unitOfWork.PostRepository.GetAll()
+                .AsQueryable()
+                .Where(p => p.UrlSlug.Contains(urlSlug))
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Post>> SearchPostsByCategoryIdAsync(Guid categoryId)
+        {
+            return await _unitOfWork.PostRepository.GetAll()
+                .AsQueryable()
+                .Where(p => p.CategoryId == categoryId)
+                .ToListAsync();
         }
     }
 }
