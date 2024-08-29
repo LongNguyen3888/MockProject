@@ -16,7 +16,6 @@
 
 bin
 obj
-packages
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
