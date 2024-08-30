@@ -1,0 +1,9 @@
+.header {
+    background-image: url('../../../assets/img/contact-bg.jpg')
+}
+
+:host {
+    .collapse {
+        visibility: visible;
+    }
+}

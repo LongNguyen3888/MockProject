@@ -1,0 +1,29 @@
+.header {
+    background-image: url('../../../assets/img/home-bg.jpg')
+}
+
+:host {
+    .collapse {
+        visibility: visible;
+    }
+}
+.post-meta
+{
+    ::ng-deep{
+
+    ul{
+        display: list-item !important;
+        list-style:auto !important
+    }
+    
+    ol{
+        display: list-item !important;
+        list-style:auto !important
+    }
+    li{
+        display: list-item !important;
+        list-style:auto !important
+    }
+}
+
+}
